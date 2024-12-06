@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trade simu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+734dc9c9524a334a54d73e58924dbbdf0d3b928c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8113c83248a9ab9cbf6a3ecc53beb6a3f045f86c")]
 [assembly: System.Reflection.AssemblyProductAttribute("trade simu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trade simu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

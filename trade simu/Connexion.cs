@@ -11,7 +11,7 @@ namespace trade_simu
             string password = "XXX";
 
 
-            Console.WriteLine("Hi, Welcome to your economie strategie and trading simulation");
+            Console.WriteLine("Hi, Welcome to your economic strategie and trading simulation");
             Console.WriteLine("");
             Console.WriteLine("before start we need to know who are you, please interact.");
             Console.WriteLine("");

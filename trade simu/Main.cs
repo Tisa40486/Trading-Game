@@ -7,6 +7,7 @@ namespace simulateur
         public static void Main (string[] args)
         {
             Connexion_class.connexionMain();
+            minningClass.minningMain();
         }
     }
 }
